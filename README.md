@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[cv.100xdev.xyz](https://cv.100xdev.xyz)
+[cv.100xdev.xyz]([https://cv.100xdev.xyz](https://cv.shiphoria.in/))
 [LinkedIn](https://www.linkedin.com/in/iamsahilchandel/)
 [Twitter/X](https://x.com/iamsahilchandel)
